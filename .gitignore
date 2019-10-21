@@ -1,0 +1,11 @@
+/.vs
+/IPCSampleClient/obj
+/IPCSampleClient/bin
+/IPCSampleServer/obj
+/IPCSampleServer/bin
+/IpcClient/obj
+/IpcClient/bin
+/IpcServer/obj
+/IpcServer/bin
+/CommonIpc/obj
+/CommonIpc/bin
